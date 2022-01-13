@@ -1,0 +1,45 @@
+
+.main {
+    margin: 0; padding: 0;
+    width: 100vw; min-height: 100vh;
+    /* background-image: url('https://www.ecartelera.com/images/sets/29300/29361.jpg'); */
+    background-image: url('https://images.unsplash.com/photo-1536880879850-e5a87ee99f1d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8Ym9vayUyMGRlc2t8ZW58MHx8MHx8&w=1000&q=80');
+    background-size: cover;
+
+    background-repeat: no-repeat;
+    background-color:   #a2b1c1;
+  }
+
+.homebtn {
+    position: absolute;
+    top: 5%;
+    left: 1%;
+    background-color:transparent;
+    color: rgb(66, 182, 182);
+    border-radius: 15px;
+    border-color:black;
+    cursor: pointer;
+    font-size: 36px;
+      
+  }
+  
+
+
+  .info{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(24, 7, 54);
+    border-color: transparent;
+    background-color: transparent;
+    display: inline-block
+  }
+
+  input {
+
+    background-color: transparent;
+    border-radius: 5px;
+    font-size: 22px;
+    border-color: rgb(24, 7, 54);
+    color: rgb(65, 65, 107);
+    
+  }

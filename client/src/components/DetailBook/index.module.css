@@ -1,0 +1,42 @@
+.main {
+    margin: 0; padding: 0;
+    width: 100vw; min-height: 100vh;
+    background-image: url('https://stylecaster.com/wp-content/uploads/2020/06/fashion-coffee-table-books.jpg');
+    background-size: cover;
+    background-position-y: 0px;
+    background-repeat: no-repeat;
+    background-color:   #a2b1c1;
+  }
+
+.homebtn {
+    position: absolute;
+    top: 2%;
+    left: 3%;
+    background-color:transparent;
+    color: gray;
+    border-radius: 15px;
+    border-color: gray;
+    cursor: pointer;
+    font-size: 36px;
+      
+  }
+  
+  .image {
+    position: absolute;
+    top: 15%;
+    left: 3%;
+    background-color: transparent;
+  }
+
+  .info {
+    position: absolute;
+    top: 6%;
+    left: 3%;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(8, 27, 4);
+  }
+
+
+
+
